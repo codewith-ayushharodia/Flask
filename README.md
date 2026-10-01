@@ -1,2 +1,1 @@
-# Flask
-learning flask
+This is my start of flask. stay tuned till i own flask hehe! 
